@@ -1,0 +1,2 @@
+# data-analysisi
+python
